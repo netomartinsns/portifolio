@@ -59,6 +59,9 @@ body{
 
 .apresentacao__links__link{
     /* background-color: #22d4fd;  */
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 3px solid #22d4fd;
     width: 350px;
     text-align: center;
@@ -69,6 +72,9 @@ body{
     text-decoration: none;
     color: #f6f6f6;
     font-family: 'Montserrat', sans-serif;
+}
 
-
+.apresentacao__links__link:hover{
+    background-color: #272727;
+    color: #f6f6f6;
 }
