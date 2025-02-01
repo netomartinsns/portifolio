@@ -44,20 +44,30 @@ body{
 
 .apresentacao__links{
     display: flex;
+    flex-direction: column; ;
     justify-content: space-between;
     width: 300px;
+    align-items: center;
+    gap: 32px;
+}
+
+.apresentacao__links__subtitulo{
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
 }
 
 .apresentacao__links__link{
-    background-color: #22d4fd;
-    width: 145px;
+    /* background-color: #22d4fd;  */
+    border: 3px solid #22d4fd;
+    width: 350px;
     text-align: center;
-    border-radius: 16px;
-    font-size: 25px;
-    font-weight: 600;
+    border-radius: 15px;
+    font-size: 30px;
+    font-weight: 300;
     padding: 21.5px 4;
     text-decoration: none;
-    color:black;
+    color: #f6f6f6;
     font-family: 'Montserrat', sans-serif;
 
 
