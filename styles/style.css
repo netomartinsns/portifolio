@@ -44,10 +44,11 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .apresentacao__conteudo{
-    width: 615px;
+    width: 80%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -92,7 +93,7 @@ body{
     justify-content: center;
     gap: 16px;
     border: 3px solid var(--cor-terciaria);
-    width: 350px;
+    width: 300px;
     text-align: center;
     border-radius: 15px;
     font-size: 1.875rem;
@@ -108,6 +109,13 @@ body{
     color: var(--cor-secundaria);
 }
 
+.apresentacao__imagem{
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+    background-color: var(--cor-terciaria);
+}
+
 .rodape{
     padding: 5px;
     color: var(--cor-primaria);
@@ -118,3 +126,22 @@ body{
     font-weight: 300;
 
 }
+
+@media (max-width: 1200px){
+    .cabecalho{
+        padding: 10%;
+    }
+
+    .cabecalho__menu{
+        justify-content: center;
+
+    }
+
+    .apresentacao {
+        flex-direction: column-reverse;
+    }
+
+    
+}
+  
+    
