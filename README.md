@@ -27,9 +27,12 @@
 ## Feito por:
 
 ### Manoel Martins
+
+
+ ![138319393](https://github.com/user-attachments/assets/7997c8a6-58b8-4cbc-ba04-2c4d6b3a56e9)
 ### Bernardo Pessoa Martins
 
 
-#CSS ![195815939](https://github.com/user-attachments/assets/27589050-3282-4365-9a4a-1a3b6052961a)
+ ![195815939](https://github.com/user-attachments/assets/27589050-3282-4365-9a4a-1a3b6052961a)
 
 
