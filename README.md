@@ -1,9 +1,9 @@
-## ESTE PROJETO FOI DESNVOLVIDO NO INTUITO DE SER MINHA PÁGINA DE APRESENTAÇÃO PESSOAL 💯
+## ESTE PROJETO FOI DESENVOLVIDO NO INTUITO DE SER MINHA PÁGINA DE APRESENTAÇÃO PESSOAL 💯
 
 
 
 
-## Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+## Olá, Bem vindo ao meu projeto de portfólio.
 
 ✍️
 ### Ferramentas utilizadas:
