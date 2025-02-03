@@ -5,6 +5,8 @@
 
 ## Olá, Bem vindo ao meu projeto de portfólio.
 
+![Screenshot 2025-02-02 at 21-04-15 Portfólio](https://github.com/user-attachments/assets/8730e370-ac49-4bea-adeb-68400b38ca73)
+
 ✍️
 ### Ferramentas utilizadas:
 
@@ -31,3 +33,5 @@
 
     
 </div><br/>
+
+
