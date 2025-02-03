@@ -28,10 +28,8 @@
 
 ### Manoel Martins
 ### Bernardo Pessoa Martins
-<div style="display: inline_block"><br/>
-    <img align="center" alt="css" src="<img align="center" alt="css" src="https://github.com/bernardomartins1204" />
 
-    
-</div><br/>
+
+#CSS ![195815939](https://github.com/user-attachments/assets/27589050-3282-4365-9a4a-1a3b6052961a)
 
 
